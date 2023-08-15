@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metaphor", "Metaphor\Metaphor.csproj", "{9B664B1E-385A-40AD-B22B-27C93B9670DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLMetaphor", "BLMetaphor\BLMetaphor.csproj", "{BEDD78B1-1A1B-4888-8562-0A53CF776BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLMetaphor", "DLMetaphor\DLMetaphor.csproj", "{AD76868B-996F-4B4E-9D6E-49C938A3A31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B664B1E-385A-40AD-B22B-27C93B9670DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B664B1E-385A-40AD-B22B-27C93B9670DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B664B1E-385A-40AD-B22B-27C93B9670DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B664B1E-385A-40AD-B22B-27C93B9670DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDD78B1-1A1B-4888-8562-0A53CF776BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDD78B1-1A1B-4888-8562-0A53CF776BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDD78B1-1A1B-4888-8562-0A53CF776BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDD78B1-1A1B-4888-8562-0A53CF776BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD76868B-996F-4B4E-9D6E-49C938A3A31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD76868B-996F-4B4E-9D6E-49C938A3A31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD76868B-996F-4B4E-9D6E-49C938A3A31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD76868B-996F-4B4E-9D6E-49C938A3A31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39B29F7-B6C3-4669-BBB4-230F840B611B}
+	EndGlobalSection
+EndGlobal

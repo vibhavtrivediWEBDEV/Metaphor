@@ -1,0 +1,15 @@
+E:\Goodluck\Metaphor\BLMetaphor\bin\Debug\net6.0\BLMetaphor.deps.json
+E:\Goodluck\Metaphor\BLMetaphor\bin\Debug\net6.0\BLMetaphor.dll
+E:\Goodluck\Metaphor\BLMetaphor\bin\Debug\net6.0\BLMetaphor.pdb
+E:\Goodluck\Metaphor\BLMetaphor\bin\Debug\net6.0\DLMetaphor.dll
+E:\Goodluck\Metaphor\BLMetaphor\bin\Debug\net6.0\DLMetaphor.pdb
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\BLMetaphor.csproj.AssemblyReference.cache
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\BLMetaphor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\BLMetaphor.AssemblyInfoInputs.cache
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\BLMetaphor.AssemblyInfo.cs
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\BLMetaphor.csproj.CoreCompileInputs.cache
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\BLMetaphor.csproj.CopyComplete
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\BLMetaphor.dll
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\refint\BLMetaphor.dll
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\BLMetaphor.pdb
+E:\Goodluck\Metaphor\BLMetaphor\obj\Debug\net6.0\ref\BLMetaphor.dll
