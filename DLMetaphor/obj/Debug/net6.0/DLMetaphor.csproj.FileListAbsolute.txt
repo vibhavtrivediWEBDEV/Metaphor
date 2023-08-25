@@ -10,3 +10,15 @@ E:\Goodluck\Metaphor\DLMetaphor\obj\Debug\net6.0\DLMetaphor.dll
 E:\Goodluck\Metaphor\DLMetaphor\obj\Debug\net6.0\refint\DLMetaphor.dll
 E:\Goodluck\Metaphor\DLMetaphor\obj\Debug\net6.0\DLMetaphor.pdb
 E:\Goodluck\Metaphor\DLMetaphor\obj\Debug\net6.0\ref\DLMetaphor.dll
+D:\Metaphor\DLMetaphor\bin\Debug\net6.0\DLMetaphor.deps.json
+D:\Metaphor\DLMetaphor\bin\Debug\net6.0\DLMetaphor.dll
+D:\Metaphor\DLMetaphor\bin\Debug\net6.0\DLMetaphor.pdb
+D:\Metaphor\DLMetaphor\obj\Debug\net6.0\DLMetaphor.csproj.AssemblyReference.cache
+D:\Metaphor\DLMetaphor\obj\Debug\net6.0\DLMetaphor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Metaphor\DLMetaphor\obj\Debug\net6.0\DLMetaphor.AssemblyInfoInputs.cache
+D:\Metaphor\DLMetaphor\obj\Debug\net6.0\DLMetaphor.AssemblyInfo.cs
+D:\Metaphor\DLMetaphor\obj\Debug\net6.0\DLMetaphor.csproj.CoreCompileInputs.cache
+D:\Metaphor\DLMetaphor\obj\Debug\net6.0\DLMetaphor.dll
+D:\Metaphor\DLMetaphor\obj\Debug\net6.0\refint\DLMetaphor.dll
+D:\Metaphor\DLMetaphor\obj\Debug\net6.0\DLMetaphor.pdb
+D:\Metaphor\DLMetaphor\obj\Debug\net6.0\ref\DLMetaphor.dll

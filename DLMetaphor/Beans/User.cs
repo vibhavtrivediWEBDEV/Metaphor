@@ -18,5 +18,6 @@ namespace DLMetaphor.Beans
         public string Bio { get; set; }
         public string BankAccount { get; set; }
         public string IFSCCode { get; set; }
+        public bool WillPersist { get; set; } = false;
     }
 }

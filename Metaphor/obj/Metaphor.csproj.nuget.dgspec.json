@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Goodluck\\Metaphor\\Metaphor\\Metaphor.csproj": {}
+    "D:\\Metaphor\\Metaphor\\Metaphor.csproj": {}
   },
   "projects": {
-    "E:\\Goodluck\\Metaphor\\BLMetaphor\\BLMetaphor.csproj": {
+    "D:\\Metaphor\\BLMetaphor\\BLMetaphor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Goodluck\\Metaphor\\BLMetaphor\\BLMetaphor.csproj",
+        "projectUniqueName": "D:\\Metaphor\\BLMetaphor\\BLMetaphor.csproj",
         "projectName": "BLMetaphor",
-        "projectPath": "E:\\Goodluck\\Metaphor\\BLMetaphor\\BLMetaphor.csproj",
+        "projectPath": "D:\\Metaphor\\BLMetaphor\\BLMetaphor.csproj",
         "packagesPath": "C:\\Users\\Vedang trivedi\\.nuget\\packages\\",
-        "outputPath": "E:\\Goodluck\\Metaphor\\BLMetaphor\\obj\\",
+        "outputPath": "D:\\Metaphor\\BLMetaphor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vedang trivedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Goodluck\\Metaphor\\DLMetaphor\\DLMetaphor.csproj": {
-                "projectPath": "E:\\Goodluck\\Metaphor\\DLMetaphor\\DLMetaphor.csproj"
+              "D:\\Metaphor\\DLMetaphor\\DLMetaphor.csproj": {
+                "projectPath": "D:\\Metaphor\\DLMetaphor\\DLMetaphor.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "E:\\Goodluck\\Metaphor\\DLMetaphor\\DLMetaphor.csproj": {
+    "D:\\Metaphor\\DLMetaphor\\DLMetaphor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Goodluck\\Metaphor\\DLMetaphor\\DLMetaphor.csproj",
+        "projectUniqueName": "D:\\Metaphor\\DLMetaphor\\DLMetaphor.csproj",
         "projectName": "DLMetaphor",
-        "projectPath": "E:\\Goodluck\\Metaphor\\DLMetaphor\\DLMetaphor.csproj",
+        "projectPath": "D:\\Metaphor\\DLMetaphor\\DLMetaphor.csproj",
         "packagesPath": "C:\\Users\\Vedang trivedi\\.nuget\\packages\\",
-        "outputPath": "E:\\Goodluck\\Metaphor\\DLMetaphor\\obj\\",
+        "outputPath": "D:\\Metaphor\\DLMetaphor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vedang trivedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,6 +99,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.5, )"
@@ -124,14 +128,14 @@
         }
       }
     },
-    "E:\\Goodluck\\Metaphor\\Metaphor\\Metaphor.csproj": {
+    "D:\\Metaphor\\Metaphor\\Metaphor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Goodluck\\Metaphor\\Metaphor\\Metaphor.csproj",
+        "projectUniqueName": "D:\\Metaphor\\Metaphor\\Metaphor.csproj",
         "projectName": "Metaphor",
-        "projectPath": "E:\\Goodluck\\Metaphor\\Metaphor\\Metaphor.csproj",
+        "projectPath": "D:\\Metaphor\\Metaphor\\Metaphor.csproj",
         "packagesPath": "C:\\Users\\Vedang trivedi\\.nuget\\packages\\",
-        "outputPath": "E:\\Goodluck\\Metaphor\\Metaphor\\obj\\",
+        "outputPath": "D:\\Metaphor\\Metaphor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vedang trivedi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,11 +152,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Goodluck\\Metaphor\\BLMetaphor\\BLMetaphor.csproj": {
-                "projectPath": "E:\\Goodluck\\Metaphor\\BLMetaphor\\BLMetaphor.csproj"
+              "D:\\Metaphor\\BLMetaphor\\BLMetaphor.csproj": {
+                "projectPath": "D:\\Metaphor\\BLMetaphor\\BLMetaphor.csproj"
               },
-              "E:\\Goodluck\\Metaphor\\DLMetaphor\\DLMetaphor.csproj": {
-                "projectPath": "E:\\Goodluck\\Metaphor\\DLMetaphor\\DLMetaphor.csproj"
+              "D:\\Metaphor\\DLMetaphor\\DLMetaphor.csproj": {
+                "projectPath": "D:\\Metaphor\\DLMetaphor\\DLMetaphor.csproj"
               }
             }
           }
@@ -166,6 +170,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
